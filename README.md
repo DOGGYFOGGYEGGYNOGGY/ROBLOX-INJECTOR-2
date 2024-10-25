@@ -7,6 +7,7 @@ It includes:
   ![image](https://github.com/user-attachments/assets/44c07972-f16c-4e57-b651-a817c211af9f)
 
 # PATCHES
+* More scripts to run!
 * The exploit can be ran on more hardware
 * Roblox crashing reduced
 * Code correction on your custom lua scripts
